@@ -12,3 +12,7 @@ function printUserInfo (usuarios) {
 }
 
 printUserInfo(usuarios);
+
+// for (let usuario of usuarios) {
+//     console.log(`${usuario.nome} trabalha com ${usuario.tecnologias.join(', ')}`)
+// }
